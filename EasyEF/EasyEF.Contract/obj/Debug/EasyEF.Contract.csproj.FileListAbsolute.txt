@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Contract.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Contract.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Common.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Models.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Common.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\bin\Debug\EasyEF.Models.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\obj\Debug\EasyEF.Contract.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\obj\Debug\EasyEF.Contract.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Contract\obj\Debug\EasyEF.Contract.pdb

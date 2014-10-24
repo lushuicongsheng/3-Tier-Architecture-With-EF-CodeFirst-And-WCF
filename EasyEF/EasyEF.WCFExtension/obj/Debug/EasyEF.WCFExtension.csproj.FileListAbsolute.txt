@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\bin\Debug\EasyEF.WCFExtension.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\bin\Debug\EasyEF.WCFExtension.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\bin\Debug\EasyEF.Utility.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\bin\Debug\EasyEF.Utility.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\obj\Debug\EasyEF.WCFExtension.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\obj\Debug\EasyEF.WCFExtension.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.WCFExtension\obj\Debug\EasyEF.WCFExtension.pdb

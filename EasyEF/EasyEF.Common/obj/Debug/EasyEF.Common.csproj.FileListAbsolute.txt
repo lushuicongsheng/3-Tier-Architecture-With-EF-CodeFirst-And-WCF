@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Common\bin\Debug\EasyEF.Common.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Common\bin\Debug\EasyEF.Common.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Common\obj\Debug\EasyEF.Common.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Common\obj\Debug\EasyEF.Common.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.Common\obj\Debug\EasyEF.Common.csprojResolveAssemblyReference.cache

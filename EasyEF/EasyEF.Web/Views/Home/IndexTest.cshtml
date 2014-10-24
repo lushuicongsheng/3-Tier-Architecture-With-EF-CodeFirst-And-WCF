@@ -1,0 +1,22 @@
+﻿@using EasyEF.Common
+@using EasyEF.Models
+@using EasyEF.Controls
+@model EasyEF.WCFClientProxy.HomeService.PagedListOfProduct6Lx8ofhX
+@{
+    ViewBag.Title = "IndexTest";
+}
+
+<h2>IndexTest</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div>
+    <ul>
+        @foreach (var product in Model.Data)
+        {
+            <li>@product.Name</li>
+        }
+    </ul>
+    
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.DAL.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.DAL.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.Common.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.IDAL.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.Models.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.Common.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.IDAL.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\bin\Debug\EasyEF.Models.pdb
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\obj\Debug\EasyEF.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\obj\Debug\EasyEF.DAL.dll
+C:\Users\Administrator\Downloads\EasyEF\EasyEF\EasyEF.DAL\obj\Debug\EasyEF.DAL.pdb
